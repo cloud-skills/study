@@ -25,7 +25,7 @@
 - 보안에서 인증과 인가에 대한 개념을 정리하세요.
 - AWS IAM identity providers가 무엇인지와 사용되는 사례를 정리하세요.
 - User01, user02, user03 IAM user와 dev, ops라는 IAM role을 생성하고, user01은 dev role만 assume 가능하도록 하고 user02, user03은 ops라는 role만 assume 할 수 있도록 구성해 보세요.
-- EKS의 Pod에서 curl http://169.254.169.254 호출이 실패한다면 어떤 이유 때문에 그런지 조사하세요.
+- EKS의 Pod에서 curl http://169.254.169.254 호출이 실패한다면 어떤 이유 때문에 이런 현상이 나타날 수 있는지 생각해 보세요.
 
 ### 5. WAF/Shield
 - WAF와 Shield의 차이에 대해 정리하세요.
