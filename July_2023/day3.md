@@ -12,11 +12,11 @@
 - Pod 마다 Security Group을 가질 수 있도록 구성해 보세요.
 - AWS LB Controller와 External DNS가 어떤 역할을 하는지 정리하세요.
 - ingress 두 개가 하나의 ALB에 매핑 되도록 설정해 보세요. Path 라우팅을 통해 /foo/* 는 foo Pod로, /bar/*는 bar Pod로 라우팅 되어야 합니다.
-  ```
-      - foo ingress - foo service - foo pod
-  ALB
-      - bar ingress - bar service - bar pod
-  ```
+```
+    - foo ingress - foo service - foo pod
+ALB
+    - bar ingress - bar service - bar pod
+```
 - Karpenter가 cluster-autoscaler 보다 어떤 점이 더 좋은지 정리하고, Karpenter를 직접 구성해 foo Pod가 실행될 수 있는 Node를 생성해 보세요.
 - IRSA가 무엇인지 정리하고 실제 Pod가 IAM role로 assume 하는 구성을 해보세요.
 - 50개의 MSA app들이 300대의 EC2에서 돌고 있는 서비스가 있고, 각 app의 로깅 포맷이 현재 모두 다른 상황이다. EC2 환경에서 EKS 환경으로 마이그레이션 하고자 했을 때 로깅 아키텍처에 대해 설계해 보고 왜 그렇게 디자인하였는지 정리해 보세요.
