@@ -3,4 +3,5 @@
 - 제공된 내용을 수행해 보고 당일 결과를 작성해서 선생님에게 전달받은 메일로 전달해 주세요.
 - 과제 내용은 본인에게 도움 되는 주제만 골라서 수행하더라도 무방합니다.
 
-- 6일차 링크 : https://meet.google.com/sfm-memf-xuw
+- 6일차 링크 : ~~https://meet.google.com/sfm-memf-xuw~~
+  https://meet.google.com/yrt-zsyq-btz
