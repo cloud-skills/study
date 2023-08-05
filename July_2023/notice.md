@@ -5,3 +5,4 @@
 
 - 6일차 링크 : ~~https://meet.google.com/sfm-memf-xuw~~
   https://meet.google.com/yrt-zsyq-btz
+- 7일차 링크 : https://meet.google.com/ika-uypg-wmr
