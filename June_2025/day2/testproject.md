@@ -46,7 +46,7 @@
     - API Spec
         | Path      | Verb  | Parameter              |
         | --------- | ----- | ---------------------- |
-        | /v1/token | POST  | {"length":\<Integer\>} |
+        | /v1/token | POST  | {"id":\<String\>,"length":\<Integer\>} |
         | /health   | GET   | -                      |
 
 - color application
